@@ -3,6 +3,3 @@ from . models import employees
 
 
 admin.site.register(employees)
-
-
-
